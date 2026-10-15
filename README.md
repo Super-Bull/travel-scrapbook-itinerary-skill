@@ -182,3 +182,11 @@ Use $travel-scrapbook-itinerary，把下面这段旅行计划做成 9:16 旅行�
 ```text
 travel-scrapbook-itinerary/references/open-source-ip-policy.md
 ```
+
+## 联系我
+
+用的时候卡住了、想聊你自己的情况、或者想约苏州企业 AI 培训，扫码加我（姑苏阿伟）：
+
+<img src="./assets/awei-wechat-qr.jpg" alt="姑苏阿伟 微信二维码" width="240">
+
+加上了直接说事就行，不用客套。
